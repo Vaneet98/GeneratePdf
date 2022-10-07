@@ -1,0 +1,25 @@
+{
+  "name": "generatepdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "mysql2": "^2.3.3",
+    "pdfkit": "^0.13.0",
+    "pdfkit-table": "^0.1.99",
+    "sequelize": "^6.21.3",
+    "swagger-jsdoc": "^6.2.2",
+    "swagger-ui-express": "^4.5.0",
+    "uuid": "^8.3.2"
+  }
+}
